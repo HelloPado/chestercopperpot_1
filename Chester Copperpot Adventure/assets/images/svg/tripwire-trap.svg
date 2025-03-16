@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 16">
+  <!-- Mounting fixtures -->
+  <circle cx="4" cy="8" r="4" fill="#5D4037" stroke="#3E2723" stroke-width="1"/>
+  <circle cx="76" cy="8" r="4" fill="#5D4037" stroke="#3E2723" stroke-width="1"/>
+  
+  <!-- Central screws -->
+  <circle cx="4" cy="8" r="1" fill="#3E2723"/>
+  <circle cx="76" cy="8" r="1" fill="#3E2723"/>
+  
+  <!-- Wire -->
+  <line x1="4" y1="8" x2="76" y2="8" stroke="#8D6E63" stroke-width="1"/>
+  
+  <!-- Small hooks -->
+  <path d="M 8,8 L 8,12" stroke="#5D4037" stroke-width="1"/>
+  <path d="M 72,8 L 72,12" stroke="#5D4037" stroke-width="1"/>
+  
+  <!-- Danger indicator (subtle shine) -->
+  <line x1="20" y1="8" x2="60" y2="8" stroke="#D7CCC8" stroke-width="0.5" stroke-dasharray="2,3"/>
+</svg>

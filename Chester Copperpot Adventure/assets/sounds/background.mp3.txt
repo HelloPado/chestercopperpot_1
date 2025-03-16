@@ -1,0 +1,19 @@
+SOUND PLACEHOLDER
+
+This file represents a "background.mp3" music file.
+Description: Background music loop for the Chester Copperpot Adventure game.
+
+Recommended specifications:
+- Format: MP3 (compressed)
+- Duration: 1-2 minutes with seamless loop
+- Style: Adventure/exploration theme with cave/mining elements
+- Tempo: Medium, not too fast or too slow
+- Instrumentation: Could include:
+  * Acoustic guitar or string instruments for melody
+  * Light percussion (like tambourine or hand drums)
+  * Occasional "cave" sounds (water drops, distant echoes)
+  * Mysterious but not scary atmosphere
+- Should be subtle enough to not distract from gameplay
+- Should loop seamlessly without noticeable breaks
+
+You should replace this text file with an actual .mp3 audio file. 

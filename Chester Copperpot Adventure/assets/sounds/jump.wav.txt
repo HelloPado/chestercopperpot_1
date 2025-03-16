@@ -1,0 +1,12 @@
+SOUND PLACEHOLDER
+
+This file represents a "jump.wav" sound file.
+Description: A simple "boop" sound effect that plays when Chester jumps.
+
+Recommended specifications:
+- Format: WAV (uncompressed)
+- Duration: 0.2-0.3 seconds
+- Frequency: Medium-high pitch
+- Type: Short, upward "boop" sound
+
+You should replace this text file with an actual .wav audio file. 

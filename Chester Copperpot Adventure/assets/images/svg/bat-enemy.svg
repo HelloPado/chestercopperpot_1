@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="48" viewBox="0 0 64 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bat Enemy -->
+  
+  <!-- Body -->
+  <ellipse cx="32" cy="24" rx="12" ry="8" fill="#4a235a" />
+  
+  <!-- Wings -->
+  <path d="M20 24 Q10 10 4 24 Q10 20 20 24" fill="#6c3483" /> <!-- Left wing -->
+  <path d="M44 24 Q54 10 60 24 Q54 20 44 24" fill="#6c3483" /> <!-- Right wing -->
+  
+  <!-- Wing details -->
+  <path d="M20 24 Q15 18 10 24" stroke="#4a235a" stroke-width="1" fill="none" />
+  <path d="M44 24 Q49 18 54 24" stroke="#4a235a" stroke-width="1" fill="none" />
+  
+  <!-- Head -->
+  <circle cx="32" cy="20" r="8" fill="#4a235a" />
+  
+  <!-- Ears -->
+  <path d="M28 14 L24 6 L28 12" fill="#4a235a" /> <!-- Left ear -->
+  <path d="M36 14 L40 6 L36 12" fill="#4a235a" /> <!-- Right ear -->
+  
+  <!-- Eyes -->
+  <circle cx="28" cy="18" r="2" fill="#e74c3c" /> <!-- Left eye -->
+  <circle cx="36" cy="18" r="2" fill="#e74c3c" /> <!-- Right eye -->
+  
+  <!-- Mouth -->
+  <path d="M28 24 Q32 28 36 24" stroke="#fff" stroke-width="1" fill="none" />
+  
+  <!-- Fangs -->
+  <path d="M30 24 L30 26" stroke="#fff" stroke-width="1" />
+  <path d="M34 24 L34 26" stroke="#fff" stroke-width="1" />
+  
+  <!-- Feet -->
+  <path d="M28 32 L26 36" stroke="#6c3483" stroke-width="1" /> <!-- Left foot -->
+  <path d="M36 32 L38 36" stroke="#6c3483" stroke-width="1" /> <!-- Right foot -->
+</svg> 

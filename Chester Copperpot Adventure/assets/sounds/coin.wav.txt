@@ -1,0 +1,13 @@
+SOUND PLACEHOLDER
+
+This file represents a "coin.wav" sound file.
+Description: A bright "ping" sound effect that plays when Chester collects a coin.
+
+Recommended specifications:
+- Format: WAV (uncompressed)
+- Duration: 0.3-0.5 seconds
+- Frequency: High pitch
+- Type: Bright, metallic "ping" sound with slight reverb
+- Similar to classic arcade coin collection sounds
+
+You should replace this text file with an actual .wav audio file. 

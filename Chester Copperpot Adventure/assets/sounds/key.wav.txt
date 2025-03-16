@@ -1,0 +1,14 @@
+SOUND PLACEHOLDER
+
+This file represents a "key.wav" sound file.
+Description: A metallic "ting" sound that plays when Chester collects a key.
+
+Recommended specifications:
+- Format: WAV (uncompressed)
+- Duration: 0.5-0.7 seconds
+- Frequency: Medium-high pitch
+- Type: Metallic, resonant "ting" sound with slight echo
+- Should sound distinct from the coin collection sound
+- Could include a slight magical shimmer effect
+
+You should replace this text file with an actual .wav audio file. 
