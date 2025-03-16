@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 32">
+  <!-- Main large spike -->
+  <polygon points="20,0 5,32 35,32" fill="#8B0000" stroke="#5E0000" stroke-width="1"/>
+  
+  <!-- Metal base -->
+  <rect x="0" y="30" width="40" height="2" fill="#600000"/>
+  
+  <!-- Texture lines on spike -->
+  <line x1="20" y1="6" x2="15" y2="16" stroke="#5E0000" stroke-width="1"/>
+  <line x1="20" y1="6" x2="25" y2="16" stroke="#5E0000" stroke-width="1"/>
+  <line x1="20" y1="16" x2="12" y2="32" stroke="#5E0000" stroke-width="1"/>
+  <line x1="20" y1="16" x2="28" y2="32" stroke="#5E0000" stroke-width="1"/>
+  
+  <!-- Blood stain (subtle) -->
+  <path d="M 15,30 A 5,2 0 0 0 25,30" fill="#8B0000" fill-opacity="0.5"/>
+  
+  <!-- Highlight -->
+  <line x1="12" y1="28" x2="10" y2="32" stroke="#AA0000" stroke-width="0.5"/>
+  <line x1="17" y1="10" x2="18" y2="6" stroke="#AA0000" stroke-width="0.5"/>
+</svg>

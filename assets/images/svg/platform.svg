@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 20">
+  <!-- Main platform body -->
+  <rect x="0" y="0" width="80" height="16" fill="#5D4037" stroke="#3E2723" stroke-width="1"/>
+  
+  <!-- Platform base/shadow -->
+  <rect x="0" y="16" width="80" height="4" fill="#3E2723"/>
+  
+  <!-- Wood plank details -->
+  <line x1="10" y1="0" x2="10" y2="16" stroke="#4E342E" stroke-width="1"/>
+  <line x1="30" y1="0" x2="30" y2="16" stroke="#4E342E" stroke-width="1"/>
+  <line x1="50" y1="0" x2="50" y2="16" stroke="#4E342E" stroke-width="1"/>
+  <line x1="70" y1="0" x2="70" y2="16" stroke="#4E342E" stroke-width="1"/>
+  
+  <!-- Horizontal wood grain -->
+  <line x1="0" y1="5" x2="80" y2="5" stroke="#4E342E" stroke-width="0.5"/>
+  <line x1="0" y1="12" x2="80" y2="12" stroke="#4E342E" stroke-width="0.5"/>
+  
+  <!-- Nail details -->
+  <circle cx="10" cy="5" r="1" fill="#8D6E63"/>
+  <circle cx="30" cy="5" r="1" fill="#8D6E63"/>
+  <circle cx="50" cy="5" r="1" fill="#8D6E63"/>
+  <circle cx="70" cy="5" r="1" fill="#8D6E63"/>
+  <circle cx="10" cy="12" r="1" fill="#8D6E63"/>
+  <circle cx="30" cy="12" r="1" fill="#8D6E63"/>
+  <circle cx="50" cy="12" r="1" fill="#8D6E63"/>
+  <circle cx="70" cy="12" r="1" fill="#8D6E63"/>
+</svg>
