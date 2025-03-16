@@ -40,4 +40,4 @@ This game was created as a tribute to "The Goonies" and the character of Chester
 
 This project is for educational purposes only. "The Goonies" and its characters are property of Warner Bros. 
 
-Open your browser and navigate to http://localhost:3000/ to play the game 
+Open your browser and navigate to https://hellopado.github.io/chestercopperpot_1/) to play the game 
